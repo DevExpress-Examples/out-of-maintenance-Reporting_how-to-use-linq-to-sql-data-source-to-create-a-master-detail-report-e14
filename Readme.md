@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/LinqToSqlMasterDetail/Form1.cs) (VB: [Form1.vb](./VB/LinqToSqlMasterDetail/Form1.vb))
+* [Program.cs](./CS/LinqToSqlMasterDetail/Program.cs) (VB: [Program.vb](./VB/LinqToSqlMasterDetail/Program.vb))
+* [XtraReport1.cs](./CS/LinqToSqlMasterDetail/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/LinqToSqlMasterDetail/XtraReport1.vb))
+<!-- default file list end -->
 # How to use LINQ to SQL data source to create a Master-Detail report
 
 
